@@ -7,6 +7,10 @@
 ### Life360, só que pensado de verdade para a segurança das mulheres.
 
 Localização em tempo real entre grupos de confiança, botão de pânico (SOS), locais seguros mapeados e uma central de apoio com dicas, autodefesa e canais de denúncia — tudo em um único app.
+<img width="591" height="1280" alt="WhatsApp Image 2026-07-21 at 10 55 36" src="https://github.com/user-attachments/assets/524ee9be-ba22-43ea-a08d-9ca6b6e965dc" />
+<img width="591" height="1280" alt="WhatsApp Image 2026-07-21 at 10 55 37" src="https://github.com/user-attachments/assets/f02f020d-e76b-471f-bf9f-cdf3b41424ff" />
+<img width="591" height="1280" alt="WhatsApp Image 2026-07-21 at 10 55 37 (1)" src="https://github.com/user-attachments/assets/07566c35-8e55-4641-9884-d8f73246b93f" />
+
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.81-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-SDK%2054-000020?logo=expo&logoColor=white)](https://expo.dev/)
