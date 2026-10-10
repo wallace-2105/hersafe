@@ -226,7 +226,7 @@ Este app consome a API REST do **[HerSafe Server](https://github.com/wallace-210
 Projeto pessoal desenvolvido para fins de portfólio e estudo. Sinta-se à vontade para explorar o código.
 
 ---
-
+dev: Wallace Coimbra
 <div align="center">
 Desenvolvido com foco em impacto social real. 💜
 </div>
